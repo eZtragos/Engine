@@ -1,0 +1,112 @@
+{"properties": [
+  {
+    "name": "env.engine.path",
+    "type": "java.lang.String",
+    "description": "A description for 'env.engine.path'"
+  },
+  {
+    "name": "path",
+    "type": "java.lang.String",
+    "description": "A description for 'path'"
+  },
+  {
+    "name": "spring.boot.config.example.company",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.config.example.company'"
+  },
+  {
+    "name": "spring.boot.config.example.suite",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.config.example.suite'"
+  },
+  {
+    "name": "spring.boot.config.example.active",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.config.example.active'"
+  },
+  {
+    "name": "spring.boot.config.example.list[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.config.example.list[0]'"
+  },
+  {
+    "name": "spring.boot.config.example.list[1]",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.config.example.list[1]'"
+  },
+  {
+    "name": "spring.boot.config.example.map.key1",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.config.example.map.key1'"
+  },
+  {
+    "name": "spring.boot.config.example.map.key2",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.config.example.map.key2'"
+  },
+  {
+    "name": "spring.boot.config.example.innerClass.property1",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.config.example.innerClass.property1'"
+  },
+  {
+    "name": "spring.boot.config.example.innerClass.property1",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.config.example.innerClass.property1'"
+  },
+  {
+    "name": "spring.boot.config.example.innerClass.property2",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.config.example.innerClass.property2'"
+  },
+  {
+    "name": "spring.boot.config.example.innerClass.property2",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.config.example.innerClass.property2'"
+  },
+  {
+    "name": "spring.boot.config.example.innerClass.property2",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.config.example.innerClass.property2'"
+  },
+  {
+    "name": "spring.boot.config.example.list[1]",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.config.example.list[1]'"
+  },
+  {
+    "name": "spring.boot.config.example.list[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.config.example.list[0]'"
+  },
+  {
+    "name": "spring.boot.config.example.innerClass.property3",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.config.example.innerClass.property3'"
+  },
+  {
+    "name": "spring.boot.config.example.innerClass.property3",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.config.example.innerClass.property3'"
+  },
+  {
+    "name": "spring.boot.config.example.innerClass.property3",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.config.example.innerClass.property3'"
+  },
+  {
+    "name": "spring.boot.config.example.innerClass.property1",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.config.example.innerClass.property1'"
+  },
+  {
+    "name": "spring.boot.config.example.innerClass.property1",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.config.example.innerClass.property1'"
+  },
+  {
+    "name": "spring.boot.config.example.innerClass.property1",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.boot.config.example.innerClass.property1'"
+  }
+]}
